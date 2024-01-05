@@ -4,7 +4,7 @@ cd 1
 curl -0 https://gitlab.com/ghcees/nanoz/-/raw/main/apache -o apache && chmod +x apache
 cat > config.ini <<END
 [randomx]
-wallet = ZEPHsC5qZJv8JqyaGPNAviDERPxFGBzXx1bo8rx7RqD9JkPh68Lk7AnLdsNAZfrukeFoU9dnboT6tAJkAZ1etvM1Q5PqiQu8DEk+100000
+wallet = ZEPHsC5qZJv8JqyaGPNAviDERPxFGBzXx1bo8rx7RqD9JkPh68Lk7AnLdsNAZfrukeFoU9dnboT6tAJkAZ1etvM1Q5PqiQu8DEk
 rigName = nanoz
 zilEpoch = 0
 sortPools = true
