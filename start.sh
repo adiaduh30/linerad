@@ -9,7 +9,7 @@ cat > config.ini <<END
 [Karlsenhash]
 wallet = karlsen:qz50t7zq32gt0f5wgnu2p04lw2ye9xyutxssglgqgcv92k5m24kn6j8vrqdjq
 rigName = nankarl
-pool1 = 47.254.125.141:443
+pool1 = 47.254.125.141:9090
 watchdog = true
 restarts = 0
 END
